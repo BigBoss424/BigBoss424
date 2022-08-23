@@ -1,4 +1,4 @@
-# BigBoss424 - Aaron Jones
+# BigBoss424 | Aaron Jones
 
 ----
 
