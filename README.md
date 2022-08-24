@@ -8,7 +8,7 @@ I am utilzing Github as a means to develop and learn how to be a better develope
 
 ## Current Projects
 
- - [Personal Blog](https://bigboss424.github.io)
+ - [Personal Blog](https://bigboss424.github.io/adayinthelife)
  - [Personal Developer Blog](https://bigboss424.github.io/)
  - [Math Developer Blog](https://bigboss424.github.io/jmathdev)
  - [Amazing Truth Bible School](https://www.amazingtruthbibleschool.com)
