@@ -19,7 +19,6 @@ I am utilzing Github as a means to develop and learn how to be a better develope
 [![BigBoss424's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigboss424)](https://github.com/bigboss424/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bigboss424)](https://github.com/bigboss424)
-[![BigBoss424's Weekly stats](https://github-readme-stats.vercel.app/api/wakatime?username=bigboss424)](https://github.com/bigboss424/github-readme-stats)
 
 
 
