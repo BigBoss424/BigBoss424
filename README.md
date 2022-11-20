@@ -1,5 +1,5 @@
 # Aaron Jones
-
+[Donate](https://www.paypal.com/donate/?hosted_button_id=BVLCTWDWB38VW)
 ----
 
 I am an aspiring programmer and entrepenuer. I run a somewhat functional business, [Cogs Web Development and Hosting](https://www.cogswebdevelopmentandhosting.com). In which, I build websites, develop web applications, manage web marketing, host websites, and maintain small business websites. I am currently a student at [Western Governors University](https://www.wgu.edu), pursuing a BS in Computer Science. 
