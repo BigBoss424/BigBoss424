@@ -2,9 +2,7 @@
 [Donate](https://www.paypal.com/donate/?hosted_button_id=BVLCTWDWB38VW)
 ----
 
-I am an aspiring programmer and entrepenuer. I run a somewhat functional business, [Cogs Web Development and Hosting](https://www.cogswebdevelopmentandhosting.com). In which, I build websites, develop web applications, manage web marketing, host websites, and maintain small business websites. I am currently a student at [Western Governors University](https://www.wgu.edu), pursuing a BS in Computer Science. 
-
-I am utilzing Github as a means to develop and learn how to be a better developer. Join me as I develop my software, on a journey to create software that will help others along their journey as well. 
+I am a programmer exploring different fields in which I can specialize in and continuously learning new development patterns to learn how to implement them in various programs and languages. I am currently working on learning how to implement design patterns to build a variety of different applications. 
 
 ## Current Projects
 
